@@ -1,0 +1,8 @@
+github.com/danielgatis/go-orderbook v0.0.0-20220114174738-f8fe266f65c5 h1:sDx3xIp4TOjosWmJKeO1TR79XSjAm2P2Nm9mIK4+lBI=
+github.com/danielgatis/go-orderbook v0.0.0-20220114174738-f8fe266f65c5/go.mod h1:83WHOTDS8Ut5TDB+IG9sOlbkUmYozTsWxmtjaXjTILE=
+github.com/emirpasic/gods v1.12.0 h1:QAUIPSaCu4G+POclxeqb3F+WPpdKqFGlw36+yOzGlrg=
+github.com/emirpasic/gods v1.12.0/go.mod h1:YfzfFFoVP/catgzJb4IKIqXjX78Ha8FMSDh3ymbK86o=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
+github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
